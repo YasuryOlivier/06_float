@@ -1,0 +1,17 @@
+div{
+	width: 500px;
+	height: 200px;
+	color:black;
+	border: solid;
+	display: block;
+}
+div>div{
+	width: 60px;
+	height: 60px;
+	color:black;
+	border: solid;
+	display: block;
+}
+.floating{
+	float: left;
+}
